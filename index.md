@@ -1,8 +1,0 @@
-<div>
-        # Roger Bacon
-	<h2>c.1219/20 - c.1292 Known as Doctor Mirabilis</h2
-	<p>An English philosopher and Franciscan friar regarded as one of the earliest European advocates of the modern scientific
-	method inspired by Aristotle.</p>
-        <p2>In his time he was thought to be a wizard and is famous for the story of his mechanical/necromantic brazon head.</p2>
-</div>
-		
