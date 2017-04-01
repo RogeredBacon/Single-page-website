@@ -1,7 +1,4 @@
----
-layout: default
-title: Roger Bacon
----
+
 <div>
 	<h1>Roger Bacon</h1>
 	<h3><i>c.1219/20 - c.1292</i></h3>
