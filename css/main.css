@@ -33,11 +33,11 @@ footer {
     font-size: .8em;
 }
 
-.intro {
+#intro {
     float: left;
 }
 
-.pic1 {
+#pic1 {
     float: right;
     height: 400px;
     width: 613px;
